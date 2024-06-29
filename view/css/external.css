@@ -1,0 +1,151 @@
+.image-container {
+    text-align: center;
+    
+  }
+  #img{
+
+    border-radius: 50%;
+    
+  }
+  
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#f5e6cc;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+p {
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #555;
+}
+#generic{
+
+    width: 200px;
+    height: 60px;
+}
+
+table {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: right;
+    width: 400px;
+}
+
+td {
+    padding: 20px;
+    text-align: center;
+}
+
+td a {
+    display: block;
+    padding: 10px 10px;
+    margin: 10px;
+    background-color: #00CED1;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+td a:hover {
+    background-color:#1E90FF;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+}
+
+
+h1 {
+    color: #333;
+}
+
+table {
+    width: 85%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+td, th {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #333;
+    color: #fff;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #555;
+}
+
+.center {
+    text-align: center;
+}
+
+.go-back {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.bonus-message {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 20px;
+}
+#resign {
+    background-color: #00CED1;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 30%;
+  }
+
+
+
+
+
